@@ -1,4 +1,4 @@
-# Piper TTS
+# Multilanguage TTS
 
 > Multi-language text-to-speech using Piper with automatic language detection
 A modular Python wrapper for Piper TTS supporting English, Malayalam, and Arabic with automatic language detection and interactive mode.
